@@ -1,0 +1,1 @@
+nircmdc.exe loop 172800 500 setsysvolume 52536 default_record
